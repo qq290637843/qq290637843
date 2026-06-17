@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Wu Songyuan
 
-I am a theoretical physics enthusiast with a strong background in mathematics and competitive programming (ICPC WFi 12th Place). 
+I am a theoretical physics enthusiast with a background in mathematics and competitive programming (ICPC WFi 12th Place). 
 
 #### 💡 About My Codeforces Profile
 Here is my [Codeforces Profile](https://codeforces.com/profile/erogame). 
